@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    background-color:black;
+    color: wheat;
+    margin-left: 40%;
+    margin-right: 40%;
+    
+
+}
+.btn1{
+    background-color: yellow;
+}
+.radio{
+    background-color:blueviolet;
+
+    
+}
+.login{
+    display: flex;
+    justify-content: space-around;
+    
+}
